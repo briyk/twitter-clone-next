@@ -6,15 +6,6 @@
 2. Install Tailwind
 
 
-## Project Layout
+## Component Structure
 
-- Create Layout to wrap all components
-- inside we will initialize the layout head and Structure
-
-recruitment@boomaenterprises.com
-
-### Sidebar Component UI
-
-> Component will display Icon at mobile screen and icon with text at large Screen
-
-### Home page
+![Level 1 of Project Structure](https://i.ibb.co/PQgV1tM/Twitter-Clone-with-Nextjs-1.png)
